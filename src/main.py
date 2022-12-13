@@ -1,5 +1,5 @@
 #imports here
-import_dir = '../imports/'
+import_dir = "../.venv/Lib/site-packages/jedi/inference/imports"
 
 
 
